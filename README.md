@@ -7,6 +7,18 @@ Digite no seu terminal:
 Enviar 6 pacotes:
 >ping -n 6 www.google.com
 
+## Requisitos
+- Python
+- Terminal
+- Visual Studio Code
+
+## Executar o projeto no terminal
+No path `\seguranca-da-informacao` digite:
+>python ping_simples.py
+
+Para executar o outro projeto digite:
+>python ping_multiplo.py
+
 ## Dado
 Dado pode ser uma representação simbólica, numérica ou textual qualquer.
 
