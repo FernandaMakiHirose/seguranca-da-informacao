@@ -7,5 +7,11 @@ Digite no seu terminal:
 Enviar 6 pacotes:
 >ping -n 6 www.google.com
 
+## Dado
+Dado pode ser uma representação simbólica, numérica ou textual qualquer.
+
+## Segurança da informação
+Área que tem como objetivo assegurar que todos os dados de uma ou mais informações estejam sempre confidenciais, íntegros e disponíveis em qualquer meio de comunicação.
+
 ## Biblioteca os
 Esse módulo fornece uma maneira simples de usar funcionalidade que são dependentes de sistema operacional.
