@@ -9,8 +9,7 @@ Enviar 6 pacotes:
 
 ## Requisitos
 - Python
-- Terminal
-- Visual Studio Code
+- Pycharm ou Terminal
 
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
