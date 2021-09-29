@@ -12,6 +12,9 @@ Enviar 6 pacotes:
 - Terminal
 - Visual Studio Code
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Executar o projeto no terminal
 No path `\seguranca-da-informacao` digite:
 >python ping-simples.py
