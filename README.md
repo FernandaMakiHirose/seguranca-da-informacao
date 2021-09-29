@@ -14,10 +14,10 @@ Enviar 6 pacotes:
 
 ## Executar o projeto no terminal
 No path `\seguranca-da-informacao` digite:
->python ping_simples.py
+>python ping-simples.py
 
 Para executar o outro projeto digite:
->python ping_multiplo.py
+>python ping-multiplo.py
 
 ## Dado
 Dado pode ser uma representação simbólica, numérica ou textual qualquer.
